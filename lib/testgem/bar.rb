@@ -1,7 +1,5 @@
 module Testgem
   class Bar
-    
-
     def foo
       puts "foo"
     end
